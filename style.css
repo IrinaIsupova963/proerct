@@ -1,0 +1,35 @@
+.header{
+	background: #008080;
+	height: 100px;
+	text-align: center;
+	font-size: 36px;
+	color: white;
+	}
+.footer{
+	background: #008080;
+height: 120px;
+font-size: 26 px;
+	color: white;}
+.block{
+	background: url(../img/background45.jpg);} 
+.background{
+	width: 250px;
+height: 200 px;
+
+}
+
+@media screen and (max-width: 576px) {
+	
+.background {
+width: 100 px;
+height: auto;
+
+}
+.header{
+	font-size: 26px;
+}
+.footer {
+height: 90 px;
+font-size: 20 px;}
+}
+	
